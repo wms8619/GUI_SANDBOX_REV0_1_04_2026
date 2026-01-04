@@ -1,0 +1,1 @@
+install.packages(c("shiny", "shinyjs", "DBI", "RSQLite", "httr2", "jsonlite", "base64enc", "magick"))
